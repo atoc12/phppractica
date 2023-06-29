@@ -1,3 +1,6 @@
+<?php
+    echo'holaaa';
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
