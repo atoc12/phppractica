@@ -9,6 +9,7 @@
     <title>Document</title>
 </head>
 <body>
+    <h1><? echo 'jijija'; ?></h1>
     hola mundo
 </body>
 </html>
